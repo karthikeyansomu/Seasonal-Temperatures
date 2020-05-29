@@ -1,2 +1,2 @@
 # Seasonal-Temperatures
-Seasonal Temperature changes in Singapore compared to New Delhi and New York City
+Seasonal Temperature changes in Singapore compared to New York City
